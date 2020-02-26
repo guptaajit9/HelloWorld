@@ -6,3 +6,4 @@ Hi This is my second commit.
 
 Hi This is my first commit through eclipse.
 
+Git rebase example
